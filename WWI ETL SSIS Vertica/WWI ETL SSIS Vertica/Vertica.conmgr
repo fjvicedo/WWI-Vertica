@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Vertica"
+  DTS:DTSID="{5C6654F2-C07E-48F7-97B6-D796D2E22E52}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=192.168.1.87;User ID=dbadmin;Initial Catalog=Test;Provider=VerticaOLEDB;Port=5433;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABDL5uNZx7EC9ThxVx08e3gAAAAACAAAAAAAQZgAAAAEAACAAAAAFyzIgAXLWsgtgwwwRaPKBHFL0KhN/qVyrHazLASKClgAAAAAOgAAAAAIAACAAAABHNPg6nSlw9/nAQo5RtXctzTEcejeRjCwqyhGqpDiYm4AAAACWeFLR8pYNP3O3SJuxV7Oi/CaCPsDLOqI+uAJNlrR8liLXexqTjEp5s8aDd/qZ+TPuDmKmbiDIxgKsGC0AXUtm7DrXzlBA0ZWUPTdcaGoes2x3VA24XLf4b0nsog4p8oJ30f1QQFmlL9pYs/44jIBq+Pqp3lHQIZ45QyqEujUXeEAAAADBGlsx2EUrGyhZkkSNX96/0Pf+j0FwME9UscI8wKHfAdM5hNS5Qsh18rbOfnTQ7iidC1Rgc64psp1TEsFLHhqn</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

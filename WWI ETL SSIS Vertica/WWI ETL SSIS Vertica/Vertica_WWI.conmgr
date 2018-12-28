@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Vertica_WWI"
+  DTS:DTSID="{BAC1DD5A-7F0B-4D0B-99D4-70406CE95FD8}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=Vertica_WWI;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
